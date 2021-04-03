@@ -1,2 +1,3 @@
-# nickermancy
-Nickermancy
+# Nickermancy
+
+Welcome to Nickermancy.com
